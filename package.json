@@ -1,0 +1,41 @@
+{
+  "name": "react-container-injector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "@babel/preset-react": "^7.16.7",
+    "@babel/preset-typescript": "^7.16.7",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@types/jest": "^27.4.1",
+    "@types/react": "^18.0.8",
+    "babel-jest": "^28.0.3",
+    "jest": "^28.0.3",
+    "jest-environment-jsdom": "^28.0.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "typescript": "^4.6.4"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyDuybo/react-container-injector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyDuybo/react-container-injector/issues"
+  },
+  "homepage": "https://github.com/AlexeyDuybo/react-container-injector#readme"
+}

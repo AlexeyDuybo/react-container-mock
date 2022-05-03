@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "isolatedModules": true,
+        "noUncheckedIndexedAccess": true,
+        "forceConsistentCasingInFileNames": true,
+        "esModuleInterop": true,
+        "jsx": "react-jsx"
+    },
+}
